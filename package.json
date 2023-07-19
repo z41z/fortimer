@@ -1,14 +1,14 @@
 {
-  "name": "sp-npm-init",
-  "version": "1.0.1",
-  "description": "npm init",
+  "name": "fortimer",
+  "version": "1.0.5",
+  "description": "Manager your JavaScript timer.",
   "main": "index.js",
   "scripts": {
-    "build": "node build&&webpack --mode production --config=webpack.config.js"
+    "build": "webpack --mode production --config=webpack.config.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/z41z/sp-npm-init.git"
+    "url": "git+https://github.com/z41z/fortimer.git"
   },
   "keywords": [
     "npm",
@@ -17,7 +17,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/z41z/sp-npm-init/issues"
+    "url": "https://github.com/z41z/fortimer/issues"
   },
-  "homepage": "https://github.com/z41z/sp-npm-init#readme"
+  "homepage": "https://github.com/z41z/fortimer#readme"
 }
