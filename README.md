@@ -1,6 +1,6 @@
 # fortimer
 
-Manager your JavaScript timer.
+Manage your JavaScript timer.
 
 ## Install
 
