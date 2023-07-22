@@ -11,7 +11,7 @@ Manage your JavaScript timer.
 ### Usage
 
 ``` js
-  import { Timer } from 'fortimer'
+  import Timer from 'fortimer'
   let timer = new Timer()
   timer.add({
     name: 'test',
